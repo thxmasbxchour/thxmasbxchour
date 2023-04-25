@@ -3,7 +3,7 @@
 <h3 align="center">A passionate python developer from the UK</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></image>
 
-- 🔭 I’m currently working on GCSE CS **GCSE CS**
+- 🔭 I’m currently working on **GCSE CS**
 
 - 🌱 I’m currently learning **Python and JS**
 
