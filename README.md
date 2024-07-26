@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GCSE CS**
 
-- 🌱 I’m currently learning **Python and JS**
+- 🌱 I’m currently learning **Python and C#**
 
 - 👯 I’m looking to collaborate on **different projects**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me if you have any questions **python**
 
-- ⚡ Fun fact **I am only 14 years old!**
+- ⚡ Fun fact **I am only 16 years old!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
